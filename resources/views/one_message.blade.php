@@ -16,6 +16,6 @@
 
 @section('aside')
   @parent
-<p><b></b>Дополнительно про мебель</b></p>
+<p><b>Дополнительно про мебель</b></p>
 @endsection
 @endsection
